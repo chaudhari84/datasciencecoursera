@@ -1,1 +1,1 @@
-##This is a markdown file for a coursera assignment.
+##This is a markdown file.
